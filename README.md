@@ -18,7 +18,7 @@ This resource contains the rules that we need to agree to in order to make that 
 - [Allegheny College Policy and Awareness Statements](#Allegheny-College-Policy-and-Awareness-Statements)
 
 * [Office hours schedule](https://janyljumadinova.com/schedule)
-* [Course Contract](https://github.com/cmpsc100-fall2023-allegheny-college/course_information/CODE_OF_CONDUCT.md)
+* [Course Contract](https://github.com/cmpsc100-fall2023-allegheny-college/course_information/blob/main/CODE_OF_CONDUCT.md)
 * [Technical Leader directory](https://www.cs.allegheny.edu/teaching/technicalleaders/)
 
 ## Meeting times
