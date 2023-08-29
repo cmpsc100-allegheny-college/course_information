@@ -22,7 +22,7 @@ Rising to the level of above-average or exceptional work relies on the just that
 
 ### Improvements
 
-**Opportunities to implement improvements will begin during the `Bodega` assignment.**
+**Opportunities to implement improvements will begin during the week 3's `Bodega` assignment.**
 
 Much of the language below will not make complete sense until we're into the collaborative portion of our work. That will come a bit later.
 
