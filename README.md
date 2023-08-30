@@ -26,7 +26,7 @@ This resource contains the rules that we need to agree to in order to make that 
 |Day(s) of Week            |Time          |     Location                        |
 |--------------------------|--------------|--------------------------------|
 |Monday, Wednesday, Friday |9:00 - 9:50   |Alden 101                        |
-|Friday                    |14:30 - 16:30 | Alden 101                        |
+|Friday                    |14:30 - 16:20 | Alden 101                        |
 
 A lot of our time will be dedicated to building! That this is true _doesn't_ mean that course sessions are meant to be skipped. Each of these meetings will feature new sources of information and significant support either via community Technical Leaders, the Mayor themself, or your fellow neighborhood members. 
 
