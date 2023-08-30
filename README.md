@@ -104,7 +104,7 @@ In fact, _I can't_. This means that all the work that you complete below must be
 
 #### Workbook projects
 
-Each Monday, you will complete various short, guided projects. We will reserve time on Monday for questions and a brief walk-through of the project, pointing out key aspects that will become important for your work on Weekly Projects (see below).
+Each Monday you will complete various short, guided projects. We will reserve time on Monday for questions and a brief walk-through of the project, pointing out key aspects that will become important for your work on Weekly Projects (see below).
 
 The Workbook is assessed on a completion basis, meaning that you are expected to complete each short project.
 
@@ -139,6 +139,17 @@ Allegheny College has a student-run Honor Code designed to promote individual re
 As the nature of "plagiarism" and constituents of "fair use" change often, the department encourages you to periodically review the specific tenets of the general college Honor Code provided in the latest course catalog and in the _Compass_.
 
 The above statement, of course, also applies to online forums such as Stack Overflow, et al.
+
+#### AI Tools
+
+AI tools like OpenAI's GPT code completion, GitHub Co-pilot, and others are professional, industry-grade tools. The use of these tools for learning can be beneficial. However, there is a marked difference between implementing the solutions these tools suggest and copying their suggestions wholesale. In many cases, these tools will lead you to either incorrect or significantly advanced answers. 
+
+While there are many ways that your assignments will test your understanding of the concepts underlying our coursework, I ask a few of things from you, completely aware that you are fully on your own honor with any of these:
+
+- be prepared to explain both verbally and in writing a detailed understanding of the code you're offering for review, documenting where and how you used an assistant tool in:
+  - technical reports
+  - code comments, specifically labeling the portions of code derived from use of AI tools
+- consider how you might improve an assitant-generated solution, documenting this in reports and implementing your improvements in code
 
 ### Classroom ethics
 
