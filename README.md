@@ -34,7 +34,7 @@ A lot of our time will be dedicated to building! That this is true _doesn't_ mea
 
 * Mayor: Janyl Jumadinova
 * Email: jjumadinova@allegheny.edu
-* Discord: `@jjumadinova`
+* Discord: `@jjumadinova` (join [department's Discord server](https://discord.gg/alleghenycs))
 * Office: Alden Hall, 110
 
 ### Regular office hours
