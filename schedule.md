@@ -1,3 +1,16 @@
+## CMPSC 100-01 COURSE SCHEDULE		
+
+NOTE: THIS IS A "LIVING" DOCUMENT; THE COURSE SCHEDULE MAY BE SUBJECT TO CHANGE. SHOULD A CHANGE OCCUR, YOU WILL BE NOTIFIED IN ADVANCE OF THE CHANGE.
+
+The schedule below provides links to the various materials we will use during this course and the suggested pace at which you should complete it. You are more than welcome to work ahead, acknowledging that difficulties you encounter may occur before the rest of the class' participants reach the same waypoint. This schedule contains group assignments. You will complete these assignments in your beighborhood teams, which were assigned during the first full week of class.
+
+KEY:
+     📖     LINK TO READING
+     🎞️     LINK TO VIDEO(S)
+     📓     LINK TO WEEKLY PROJECT
+     🧰     LINK TO WORKBENCH
+     🤝     LINK TO GROUP ASSIGNMENT
+
 | DAY                                   | DAY OF WEEK                                                                                                       | TOPIC                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | WEEK 1: MOVING IN                     |
