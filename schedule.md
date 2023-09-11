@@ -32,8 +32,8 @@ KEY:
 | 🧰                                    | [Workbench](https://classroom.github.com/a/rE4JzoFb)                                                              |
 | 📓                                    | [In the Garage](https://classroom.github.com/a/ZZj3Muwy)                                                          |
 | 9/11/2023                             | Monday                                                                                                            | [Python Basics](https://python.swaroopch.com/basics.html)                                            |
-| 9/13/2023                             | Wednesday                                                                                                         |                                                    |
-| 9/15/2023                             | Friday                                                                                                            | Garage                                                   |
+| 9/13/2023                             | Wednesday                                                                                                         |    Garage                                                |
+| 9/15/2023                             | Friday                                                                                                            |                                                    |
 |                                       | Class Session                                                                                                     | Garage                                                   |
 |                                       | Lab                                                                                                               | Garage                                                   |
 | WEEK 4: YARD                          |
@@ -42,7 +42,7 @@ KEY:
 | 📓                                    | Yard Work                                                                                                         |
 | 9/18/2023                             | Monday                                                                                                            | Python Functions                                         |
 | 9/20/2023                             | Wednesday                                                                                                         | Yard                                                     |
-| 9/22/2023                             | Friday                                                                                                            | Yard                                                     |
+| 9/22/2023                             | Friday                                                                                                            |                                                      |
 |                                       | Class Session                                                                                                     | Yard                                                     |
 |                                       | Lab                                                                                                               | Yard                                                     |
 | WEEK 5: BODEGA                        |
@@ -58,7 +58,7 @@ KEY:
 | 🧰                                    | Guessing Game                                                                                                     |
 | 10/2/2023                             | Monday                                                                                                            | Control Structures                                       |
 | 10/4/2023                             | Wednesday                                                                                                         | Traffic Circle                                           |
-| 10/6/2023                             | Friday                                                                                                            | Traffic Circle                                           |
+| 10/6/2023                             | Friday                                                                                                            |                                            |
 |                                       | Class Session                                                                                                     | Traffic Circle                                           |
 |                                       | Lab                                                                                                               | Traffic Circle                                           |
 | WEEK 7: TRAFFIC CIRCLE                |
