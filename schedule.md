@@ -28,9 +28,10 @@ KEY:
 |                                       | Lab                                                                                                               | House                                                    |
 | WEEK 3: GARAGE                        |
 |                                    | Class Activity: Thermometer                                                                                       |                                                          |
+| 📖                                    | [Read Python Basics](https://python.swaroopch.com/basics.html)           |
 | 🧰                                    | [Workbench](https://classroom.github.com/a/rE4JzoFb)                                                              |
 | 📓                                    | [In the Garage](https://classroom.github.com/a/ZZj3Muwy)                                                          |
-| 9/11/2023                             | Monday                                                                                                            | [Python Basics](https://python.swaroopch.com/basics.html)                                            |
+| 9/11/2023                             | Monday                                                                                                            | Python Basics: print, user input, variables, arithmetic operators                                            |
 | 9/13/2023                             | Wednesday                                                                                                         |    Garage                                                |
 | 9/15/2023                             | Friday                                                                                                            |                                                    |
 |                                       | Class Session                                                                                                     | Garage                                                   |
