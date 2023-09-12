@@ -6,7 +6,6 @@ The schedule below provides links to the various materials we will use during th
 
 KEY:
      📖     LINK TO READING
-     🎞️     LINK TO VIDEO(S)
      📓     LINK TO WEEKLY PROJECT
      🧰     LINK TO WORKBENCH
      🤝     LINK TO GROUP ASSIGNMENT
@@ -28,7 +27,7 @@ KEY:
 |                                       | Class Session                                                                                                     | House                                                    |
 |                                       | Lab                                                                                                               | House                                                    |
 | WEEK 3: GARAGE                        |
-| 🎞️                                   | Class Activity: Thermometer                                                                                       |                                                          |
+|                                    | Class Activity: Thermometer                                                                                       |                                                          |
 | 🧰                                    | [Workbench](https://classroom.github.com/a/rE4JzoFb)                                                              |
 | 📓                                    | [In the Garage](https://classroom.github.com/a/ZZj3Muwy)                                                          |
 | 9/11/2023                             | Monday                                                                                                            | [Python Basics](https://python.swaroopch.com/basics.html)                                            |
@@ -37,7 +36,7 @@ KEY:
 |                                       | Class Session                                                                                                     | Garage                                                   |
 |                                       | Lab                                                                                                               | Garage                                                   |
 | WEEK 4: YARD                          |
-| 🎞️                                   | Class Activity: Exponent Calcluator                                                                               |                                                          |
+|                                    | Class Activity: Exponent Calcluator                                                                               |                                                          |
 | 🧰                                    | Power Tools                                                                                                       |
 | 📓                                    | Yard Work                                                                                                         |
 | 9/18/2023                             | Monday                                                                                                            | Python Functions                                         |
@@ -53,7 +52,7 @@ KEY:
 |                                       | Class Session                                                                                                     | Branching, Pull Requests, and Merging                    |
 |                                       | Lab                                                                                                               | Branching, Pull Requests, and Merging                    |
 | WEEK 6: TRAFFIC CIRCLE                |
-| 🎞️                                   | Class Activity: Guessing Game                                                                                     |                                                          |
+|                                    | Class Activity: Guessing Game                                                                                     |                                                          |
 | 🤝                                    | Red Light, Green Light, Stoplight BOOM (various neighborhood-based links; see your GitHub neighborhood team copy) |
 | 🧰                                    | Guessing Game                                                                                                     |
 | 10/2/2023                             | Monday                                                                                                            | Control Structures                                       |
