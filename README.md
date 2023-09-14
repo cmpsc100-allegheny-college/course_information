@@ -78,7 +78,7 @@ This course relies on the [GitHub](https://www.github.com), Discord, and [`term-
 
 These platforms are for our use only. To use them, you'll need to register and be logged into accounts associated with your Allegheny College email.
 
-## Learning Outcomes
+## Course Learning Outcomes
 
 By the end of this course, you will be able to:
 
@@ -87,6 +87,16 @@ By the end of this course, you will be able to:
 3. Analyze and suggest revisions to existing Python language code to improve or add functionality.
 4. Evaluate the practical and ethical implications of writing computer code and discuss the contexts, perceived effects, and impacts exerted on and by computer code as a cultural force or artifact.
 5. Design, describe, and implement original projects incorporating standard practices and Python language principles.
+
+## Distribution Learning Outcome
+
+- **Modes of Expression (ME)**: Students who successfully complete this requirement will demonstrate an understanding of the production of meaning through active engagement with language, visual arts, and/or performance.
+  
+  Program learning outcomes 1, 4, and 5 satisfy ME learning outcome.
+
+- **Scientific Process and Knowledge (SP)**: Students who successfully complete this requirement will demonstrate an understanding of the nature, approaches, and domain of scientific inquiry.
+  
+  Program learning outcomes 1, 3, and 5 satisfy SP learning outcome.
 
 ## Governance and evaluation
 
