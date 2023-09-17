@@ -38,7 +38,7 @@ KEY:
 |                                       | Lab                                                                                                               | Garage                                                   |
 | WEEK 4: YARD                          |
 |                                    | Class Activity: Exponent Calcluator                                                                               |                                                          |
-| 📖                                    | Read [Functions](https://python.swaroopch.com/basics.html](https://python.swaroopch.com/functions.html) and [Modules](https://python.swaroopch.com/op_exp.html](https://python.swaroopch.com/modules.html)         |
+| 📖                                    | Read [Functions](https://python.swaroopch.com/basics.html](https://python.swaroopch.com/functions.html) and [Modules](https://python.swaroopch.com/modules.html)         |
 | 🧰                                    | Power Tools                                                                                                       |
 | 📓                                    | Yard Work                                                                                                         |
 | 9/18/2023                             | Monday                                                                                                            | Python Functions                                         |
@@ -48,7 +48,6 @@ KEY:
 |                                       | Lab                                                                                                               | Yard                                                     |
 | WEEK 5: BODEGA                        |
 | 📖                                    | Read [GitHub Branches and Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)          |
-
 | 🤝                                    | You Say Bodega, I Say Bodega (various neighborhood-based links; see your GitHub neighborhood team copy)           |
 | 9/25/2023                             | Monday                                                                                                            | Branching                                                |
 | 9/27/2023                             | Wednesday                                                                                                         | Branching and Pull Requests                              |
