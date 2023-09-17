@@ -19,7 +19,7 @@ KEY:
 |                                       | Class Session                                                                                                     | Neighborhood Configurations                              |
 |                                       | Lab                                                                                                               | Neighborhood Configurations                              |
 | WEEK 2: MOVING IN                     |
-| 📖                                    | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information)           |
+| 📖                                    | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information). [What is GitHub?](https://digital.gov/resources/an-introduction-github/)           |
 | 📓                                    | [Who's House? Your house.](https://classroom.github.com/a/g4MvyqpB)                                               |
 | 9/4/2023                              | Monday                                                                                                            | Course Configuration: Contract Approval, Course Platform |
 | 9/6/2023                              | Wednesday                                                                                                         | Platforms: term-world. House                             |
@@ -28,7 +28,7 @@ KEY:
 |                                       | Lab                                                                                                               | House                                                    |
 | WEEK 3: GARAGE                        |
 |                                    | Class Activity: Thermometer                                                                                       |                                                          |
-| 📖                                    | [Read Python Basics](https://python.swaroopch.com/basics.html)           |
+| 📖                                    | Read [Python Basics](https://python.swaroopch.com/basics.html) and [Operators](https://python.swaroopch.com/op_exp.html)          |
 | 🧰                                    | [Workbench](https://classroom.github.com/a/rE4JzoFb)                                                              |
 | 📓                                    | [In the Garage](https://classroom.github.com/a/ZZj3Muwy)                                                          |
 | 9/11/2023                             | Monday                                                                                                            | Python Basics: print, user input, variables, arithmetic operators                                            |
@@ -38,6 +38,7 @@ KEY:
 |                                       | Lab                                                                                                               | Garage                                                   |
 | WEEK 4: YARD                          |
 |                                    | Class Activity: Exponent Calcluator                                                                               |                                                          |
+| 📖                                    | Read [Functions]([https://python.swaroopch.com/basics.html](https://python.swaroopch.com/functions.html)) and [Modules]([https://python.swaroopch.com/op_exp.html](https://python.swaroopch.com/modules.html))          |
 | 🧰                                    | Power Tools                                                                                                       |
 | 📓                                    | Yard Work                                                                                                         |
 | 9/18/2023                             | Monday                                                                                                            | Python Functions                                         |
@@ -46,6 +47,8 @@ KEY:
 |                                       | Class Session                                                                                                     | Yard                                                     |
 |                                       | Lab                                                                                                               | Yard                                                     |
 | WEEK 5: BODEGA                        |
+| 📖                                    | Read [GitHub Branches and Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)          |
+
 | 🤝                                    | You Say Bodega, I Say Bodega (various neighborhood-based links; see your GitHub neighborhood team copy)           |
 | 9/25/2023                             | Monday                                                                                                            | Branching                                                |
 | 9/27/2023                             | Wednesday                                                                                                         | Branching and Pull Requests                              |
