@@ -12,23 +12,23 @@ KEY:
 
 | DAY                                   | DAY OF WEEK                                                                                                       | TOPIC                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| WEEK 1: MOVING IN                     |
-| 📖                                    | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information)           |
+| WEEK 1: MOVING IN |
+| 📖                | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information)           |
 | 8/30/2023                             | Wednesday                                                                                                         | Course Configuration: Discord and GitHub                 |
 | 9/1/2023                              | Friday                                                                                                            |                                                          |
 |                                       | Class Session                                                                                                     | Neighborhood Configurations                              |
 |                                       | Lab                                                                                                               | Neighborhood Configurations                              |
 | WEEK 2: MOVING IN                     |
 | 📖                                    | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information). [What is GitHub?](https://digital.gov/resources/an-introduction-github/)           |
-| 📓                                    | [Who's House? Your house.](https://classroom.github.com/a/g4MvyqpB)                                               |
+| 📓                                    | [Who's House? Your house.](https://classroom.github.com/a/g4MvyqpB)       |
 | 9/4/2023                              | Monday                                                                                                            | Course Configuration: Contract Approval, Course Platform |
 | 9/6/2023                              | Wednesday                                                                                                         | Platforms: term-world. House                             |
-| 9/8/2023                              | Friday                                                                                                            |                                                          |
+| 9/8/2023                 | Friday         |                                                          |
 |                                       | Class Session                                                                                                     | House                                                    |
 |                                       | Lab                                                                                                               | House                                                    |
 | WEEK 3: GARAGE                        |
 |                                    | Class Activity: Thermometer                                                                                       |                                                          |
-| 📖                                    | Read [Python Basics](https://python.swaroopch.com/basics.html) and [Operators](https://python.swaroopch.com/op_exp.html)          |
+| 📖     | Read [Python Basics](https://python.swaroopch.com/basics.html) and [Operators](https://python.swaroopch.com/op_exp.html)          |
 | 🧰                                    | [Workbench](https://classroom.github.com/a/rE4JzoFb)                                                              |
 | 📓                                    | [In the Garage](https://classroom.github.com/a/ZZj3Muwy)                                                          |
 | 9/11/2023                             | Monday                                                                                                            | Python Basics: print, user input, variables, arithmetic operators                                            |
@@ -38,7 +38,7 @@ KEY:
 |                                       | Lab                                                                                                               | Garage                                                   |
 | WEEK 4: YARD                          |
 |                                    | Class Activity: Exponent Calcluator                                                                               |                                                          |
-| 📖                                    | Read [Functions]([https://python.swaroopch.com/basics.html](https://python.swaroopch.com/functions.html)) and [Modules]([https://python.swaroopch.com/op_exp.html](https://python.swaroopch.com/modules.html))          |
+| 📖                                    | Read [Functions](https://python.swaroopch.com/basics.html](https://python.swaroopch.com/functions.html) and [Modules](https://python.swaroopch.com/op_exp.html](https://python.swaroopch.com/modules.html)         |
 | 🧰                                    | Power Tools                                                                                                       |
 | 📓                                    | Yard Work                                                                                                         |
 | 9/18/2023                             | Monday                                                                                                            | Python Functions                                         |
