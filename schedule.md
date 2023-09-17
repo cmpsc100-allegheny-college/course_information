@@ -38,7 +38,7 @@ KEY:
 |                                       | Lab                                                                                                               | Garage                                                   |
 | WEEK 4: YARD                          |
 |                                    | Class Activity: Exponent Calcluator                                                                               |                                                          |
-| 📖                                    | Read [Functions](https://python.swaroopch.com/basics.html](https://python.swaroopch.com/functions.html) and [Modules](https://python.swaroopch.com/modules.html)         |
+| 📖                                    | Read [Functions](https://python.swaroopch.com/functions.html) and [Modules](https://python.swaroopch.com/modules.html)         |
 | 🧰                                    | Power Tools                                                                                                       |
 | 📓                                    | Yard Work                                                                                                         |
 | 9/18/2023                             | Monday                                                                                                            | Python Functions                                         |
