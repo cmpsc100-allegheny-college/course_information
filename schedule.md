@@ -40,7 +40,7 @@ KEY:
 |                                    | Class Activity: Exponent Calcluator                                                                               |                                                          |
 | 📖                                    | Read [Functions](https://python.swaroopch.com/functions.html) and [Modules](https://python.swaroopch.com/modules.html)         |
 | 🧰                                    | Power Tools                                                                                                       |
-| 📓                                    | Yard Work                                                                                                         |
+| 📓                                    | [Yard Work](https://classroom.github.com/a/aVo3IbzW)                                                                                                         |
 | 9/18/2023                             | Monday                                                                                                            | Python Functions                                         |
 | 9/20/2023                             | Wednesday                                                                                                         | Yard                                                     |
 | 9/22/2023                             | Friday                                                                                                            |                                                      |
