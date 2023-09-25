@@ -75,11 +75,12 @@ See [below](#grades-lower-than-the-basic-grade) for elaboration on letter grades
 
 #### Grades lower than the Basic Grade
 
-There are three (3) situations which penalize evaluation:
+There are four (4) situations which penalize evaluation:
 
 1. `Incomplete` assignments (i.e. basic expectations are not fulfilled)
 2. `Ignored` assignments (i.e. no evidence of assignment attempt)
 3. Plagiarism or other inappropriate/dishonest academic behavior
+4. Insuffient participation (see [Participation](#participation) section for details on what constitutes full participation)
 
 Each of these circumstances affects evaluation differently.
 
@@ -102,6 +103,29 @@ This agreement operates on the understanding that circumstances may arise which 
 Citizens engaging in academically dishonest behavior will be assessed on a case-by-case basis, as circumstances and factors of a case vary widely. Typically, academic dishonesty is referred to the Allegheny College Honor Code Committee. For questions of what qualifies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
 
 Steps in the Allegheny College process are located in the [Allegheny College Honor Code](http://catalog.allegheny.edu/content.php?catoid=43&navoid=1510).
+
+#### Insufficient participation
+
+The next section describes what it means to have full participation in this course. Citizens not engaging fully, as assessed by the Mayor, will have their grade reduced by a full letter grade.
+
+### Participation
+
+For the duration of this course, take "participation" to mean some combination of:
+
+* Completing assigned tasks
+* Listens to class instruction
+* Giving full effort to class activities
+* Actively contributing to collaborative assignments
+* For group assignments, each member of the group should appear in the "Contributors" list
+* Actively engaging in non-typical class activities (games, talks, etc.)
+* Being prepared for class by completing work outside of class hours
+* Respect neighborhood members' working hours
+  * If a member prefers not to work past 9:00p, recognize that their participation and time may be limited to a certain window each day and that this window may not always be the same
+  * However, make your best effort to be available to peers in your neighborhood rather than setting extremely restrictive hours
+
+Please note that none of the above definitions _requires verbal contribution_ -- while this is a _way_ to participate, it is not the _only_ way. Activity on GitHub may also constitute full participation, if efforts display the above qualities. For group assignments, your neighborhood may receive a level of effort survey to gauge peer appraisal of team contribution as well.
+
+It is good practice to consider your participation not only necessary for _your own success_, but _required for the success of your neighborhood as a whole_. The Office of the Mayor expects neighborhoods to coordinate working hours.
 
 ### Assignment "bugs" and impact on grading
 
@@ -135,29 +159,6 @@ The Mayor reserves the following rights:
     * the change substantially alters the academic or course community integrity or safety
     * a rule is superseded by College policies or academic standards
   * the right to make unilateral changes that uphold academic and community integrity or safety
-
-### Participation
-
-For the duration of this course, take "participation" to mean some combination of:
-
-* Helping in group activities
-* Completing assignments
-* Listens to class instruction
-* Giving full effort to class activities
-* Actively contributing to collaborative assignments
-* Being prepared for class by completing work outside of class hours
-* For group assignments, each member of the group should appear in the "Contributors" list
-* Respect neighborhood members' working hours
-  * If a member prefers not to work past 9:00p, recognize that their participation and time may be limited to a certain window each day and that this window may not always be the same
-  * However, make your best effort to be available to peers in your neighborhood rather than setting extremely restrictive hours
-
-Please note that none of the above definitions _requires verbal contribution_ -- while this is a _way_ to participate, it is not the _only_ way. Activity on GitHub may also constitute full participation, if efforts display the above qualities. Occasionally, for group assignments, your neighborhood may receive a level of effort survey to gauge peer appraisal of team contribution as well.
-
-As several of you note in your suggestions for this contract, it is good practice to consider your participation not only necessary for _your own success_, but _required for the success of your neighborhood as a whole_.
-
-#### Communicating in your neighborhoods
-
-The Office of the Mayor expects neighborhoods to use their GitHub neighborhood pages to coordinate working hours.
 
 #### Course platforms
 
