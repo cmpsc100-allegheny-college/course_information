@@ -258,13 +258,12 @@ In the event that a conflict arises with a TL, please message the course instruc
 
 ### The "Repair Rule" (i.e. Assignment Revision)
 
-This rule only applies to assignments classified as "Incomplete" assignments and _not_ "Ignored" assignments.
-
-* _Once_ during the semester, a citizen may open an Issue on a repository to which they'd like to submit missing work to regain credit for an assignment
-  * This issue should indicate a citizen's interest in reclaiming credit for this assignment using the "Repair Rule"
-* This "Repair" issue must fill out the resulting form completely to request the ability to submit revisions
+* Within _one week_ of the Mayor making the grade for the assignment official, any assignment can be "repaired" to regain credit for an assignment
+   * Credit will be awarded as "complete" or "incomplete" according to the guidelines outlined in the [Grading](#Grading) section above
+   * Mayor can provide additional extensions for extenuating circumstances
+     
+* Beyond _one-week_ period, only _one_ assignment can be "repaired" during the semester. For this, a citizen may open an Issue on a repository to which they'd like to submit missing work to regain credit for an assignment
+  * This issue should indicate a citizen's interest in reclaiming credit for this assignment
 * Citizens submitting a revision must remedy deficiencies listed in the most recent "Assignment Progress" issue
   * Credit will be awarded as "complete" or "incomplete" according to the guidelines outlined in the [Grading](#Grading) section above
-* A citizen submitting a revision is allowed five (5) days to submit updated work
-  * There is no limit on the number of `commit`s allowed during this time (i.e. citizens may `commit` as many times as they like)
 * This rule _does not apply_ to missed `Proposal`s or `Implementation`s.
