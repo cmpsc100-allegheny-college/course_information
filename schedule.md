@@ -56,6 +56,7 @@ KEY:
 |                                       | Lab                                                                                                               | Branching, Pull Requests, and Merging                    |
 | WEEK 6: TRAFFIC CIRCLE                |
 |                                    | Class Activity: Guessing Game                                                                                     |                                                          |
+| 📖                                    | Read [Control Flow](https://python.swaroopch.com/control_flow.html)          |
 | 🤝                                    | Red Light, Green Light, Stoplight BOOM (various neighborhood-based links; see your GitHub neighborhood team copy) |
 | 🧰                                    | Guessing Game                                                                                                     |
 | 10/2/2023                             | Monday                                                                                                            | Control Structures                                       |
