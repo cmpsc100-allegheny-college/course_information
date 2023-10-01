@@ -35,13 +35,13 @@ Each "improvable" assignment will suggest `10` potential improvements to choose 
 
 #### Improvement `Proposal`s
 
-Improvements must go through a formal proposal process. To propose an assignment-related world improvement, citizens must use the `Improvement Proposal` template for a given GitHub repository's `Issues` which:
+Improvements must go through a formal proposal process. To propose an assignment-related world improvement, citizens must use the `Improvement Proposal` template for a given GitHub repository's `Issues`. The proposal issue must:
 
   * responds to the templates questions/prompts
-  * is completed by the start of a lab session of a given week
-  * must be approved _in writing_ by the Mayor by the end of the lab session
+  * is completed by the assignment deadline of a given week
+  * must be approved _in writing_ by the Mayor following the deadline
     * the Office of the Mayor will provide suggestions and approval via the `Issue` filed to propose the improvement
-  * must either incorporate suggested changes or provide rationale for _not_ incorporating them
+    * must either incorporate suggested changes or provide rationale for _not_ incorporating them
 
 #### Improvement `Implementation`
 
@@ -54,6 +54,8 @@ Proposing an improvement allows a citizen to _implement_ (i.e. make) that improv
    * link the `Issue` containing the proposal to the created `Pull Request`
      * do this using the `Development` section of the `Issue` (located on the right sidebar)
    * request review of at least `3` neighborhood members and `1` member of the Office of the Mayor
+
+The improvement work can be completed anytime before *final course project work* begins (anytime before Thanksgiving break). After week 13, no improvement work on assignments other than the course project will be accepted. 
 
 ### Grading
 
