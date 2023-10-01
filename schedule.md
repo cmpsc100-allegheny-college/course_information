@@ -12,13 +12,13 @@ KEY:
 
 | DAY                                   | DAY OF WEEK                                                                                                       | TOPIC                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| WEEK 1: MOVING IN |
+| :heavy_check_mark: WEEK 1: MOVING IN |
 | 📖                | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information)           |
 | 8/30/2023                             | Wednesday                                                                                                         | Course Configuration: Discord and GitHub                 |
 | 9/1/2023                              | Friday                                                                                                            |                                                          |
 |                                       | Class Session                                                                                                     | Neighborhood Configurations                              |
 |                                       | Lab                                                                                                               | Neighborhood Configurations                              |
-| WEEK 2: MOVING IN                     |
+| :heavy_check_mark: WEEK 2: MOVING IN                     |
 | 📖                                    | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information). [What is GitHub?](https://digital.gov/resources/an-introduction-github/)           |
 | 📓                                    | [Who's House? Your house.](https://classroom.github.com/a/g4MvyqpB)       |
 | 9/4/2023                              | Monday                                                                                                            | Course Configuration: Contract Approval, Course Platform |
@@ -26,7 +26,7 @@ KEY:
 | 9/8/2023                 | Friday         |                                                          |
 |                                       | Class Session                                                                                                     | House                                                    |
 |                                       | Lab                                                                                                               | House                                                    |
-| WEEK 3: GARAGE                        |
+| :heavy_check_mark: WEEK 3: GARAGE                        |
 |                                    | Class Activity: Thermometer                                                                                       |                                                          |
 | 📖     | Read [Python Basics](https://python.swaroopch.com/basics.html) and [Operators](https://python.swaroopch.com/op_exp.html)          |
 | 🧰                                    | [Workbench](https://classroom.github.com/a/rE4JzoFb)                                                              |
@@ -36,7 +36,7 @@ KEY:
 | 9/15/2023                             | Friday                                                                                                            |                                                    |
 |                                       | Class Session                                                                                                     | Garage                                                   |
 |                                       | Lab                                                                                                               | Garage                                                   |
-| WEEK 4: YARD                          |
+| :heavy_check_mark: WEEK 4: YARD                          |
 |                                    | Class Activity: Exponent Calcluator                                                                               |                                                          |
 | 📖                                    | Read [Functions](https://python.swaroopch.com/functions.html) and [Modules](https://python.swaroopch.com/modules.html)         |
 | 🧰                                    | Power Tools                                                                                                       |
@@ -46,7 +46,7 @@ KEY:
 | 9/22/2023                             | Friday                                                                                                            |                                                      |
 |                                       | Class Session                                                                                                     | Yard                                                     |
 |                                       | Lab                                                                                                               | Yard                                                     |
-| WEEK 5: BODEGA                        |
+| :heavy_check_mark: WEEK 5: BODEGA                        |
 | 📖                                    | Read [GitHub Branches and Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)          |
 | 🤝                                    | You Say Bodega, I Say Bodega (various neighborhood-based links; see your GitHub neighborhood team copy)           |
 | 9/25/2023                             | Monday                                                                                                            | Branching                                                |
@@ -54,10 +54,10 @@ KEY:
 | 9/29/2023                             | Friday                                                                                                            | Merging                                                  |
 |                                       | Class Session                                                                                                     | Branching, Pull Requests, and Merging                    |
 |                                       | Lab                                                                                                               | Branching, Pull Requests, and Merging                    |
-| WEEK 6: TRAFFIC CIRCLE                |
+| :triangular_flag_on_post: WEEK 6: TRAFFIC CIRCLE                |
 |                                    | Class Activity: Guessing Game                                                                                     |                                                          |
 | 📖                                    | Read [Control Flow](https://python.swaroopch.com/control_flow.html)          |
-| 🤝                                    | Red Light, Green Light, Stoplight BOOM (various neighborhood-based links; see your GitHub neighborhood team copy) |
+| 🤝                                    | [Red Light, Green Light, Stoplight BOOM](https://classroom.github.com/a/qSFynXe_) (neighborhood team repo) |
 | 🧰                                    | Guessing Game                                                                                                     |
 | 10/2/2023                             | Monday                                                                                                            | Control Structures                                       |
 | 10/4/2023                             | Wednesday                                                                                                         | Traffic Circle                                           |
