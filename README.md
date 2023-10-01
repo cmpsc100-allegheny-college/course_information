@@ -13,7 +13,7 @@ This resource contains the rules that we need to agree to in order to make that 
 - [Instructor](#Instructor)
 - [Course Description](#Course-description)
 - [Required Materials](#Required-materials)
-- [Learning Outcomes](#Learning-outcomes)
+- [Learning Outcomes](#Course-Learning-outcomes)
 - [Governance and Evaluation](#Governance-and-evaluation)
 - [Allegheny College Policy and Awareness Statements](#Allegheny-College-Policy-and-Awareness-Statements)
 
