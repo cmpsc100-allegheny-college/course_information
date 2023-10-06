@@ -10,6 +10,10 @@ However, there are manifold tasks involved that are often under-counted in tradi
 
 We're able to substantially alter the terms of this deal (see [the "Rules Rule"](#the-rules-rule) below), though we won't do so without participation in course governance.
 
+## Report Violations
+
+[Form to Report Violations](https://forms.gle/oHFFaeBhur4VpdY8A)
+
 ## Contract stipulations
 
 ### The `Basic Grade`
