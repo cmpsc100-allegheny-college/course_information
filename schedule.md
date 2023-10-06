@@ -10,6 +10,8 @@ KEY:
      🧰     LINK TO WORKBENCH
      🤝     LINK TO GROUP ASSIGNMENT
 
+[Form to Report Violations](https://forms.gle/oHFFaeBhur4VpdY8A)
+
 | DAY                                   | DAY OF WEEK                                                                                                       | TOPIC                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | :heavy_check_mark: WEEK 1: MOVING IN |
