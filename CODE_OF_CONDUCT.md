@@ -43,9 +43,9 @@ Improvements must go through a formal proposal process. To propose an assignment
 
   * responds to the templates questions/prompts
   * is completed by the assignment deadline of a given week
-  * must be approved _in writing_ by the Mayor following the deadline
+  * must be approved by the Mayor following the deadline - *approval is indicated by `proposal-approved` label*
     * the Office of the Mayor will provide suggestions and approval via the `Issue` filed to propose the improvement
-    * must either incorporate suggested changes or provide rationale for _not_ incorporating them
+    * must either incorporate suggested changes or provide a rationale for _not_ incorporating them
 
 #### Improvement `Implementation`
 
