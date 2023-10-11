@@ -56,7 +56,7 @@ KEY:
 | 9/29/2023                             | Friday                                                                                                            | Merging                                                  |
 |                                       | Class Session                                                                                                     | Branching, Pull Requests, and Merging                    |
 |                                       | Lab                                                                                                               | [Participation in Alumni Panel](https://forms.gle/yyswW2zFPeRSBkaf9). Branching, Pull Requests, and Merging                    |
-| :triangular_flag_on_post: WEEK 6: TRAFFIC CIRCLE                |
+| :heavy_check_mark: WEEK 6: TRAFFIC CIRCLE                |
 |                                    | Class Activity: Guessing Game                                                                                     |                                                          |
 | 📖                                    | Read [Control Flow](https://python.swaroopch.com/control_flow.html)          |
 | 🤝                                    | [Red Light, Green Light, Stoplight BOOM](https://classroom.github.com/a/qSFynXe_) (neighborhood team repo) |
@@ -66,13 +66,13 @@ KEY:
 | 10/6/2023                             | Friday                                                                                                            |                                            |
 |                                       | Class Session                                                                                                     | Traffic Circle                                           |
 |                                       | Lab                                                                                                               | Traffic Circle                                           |
-| WEEK 7: TRAFFIC CIRCLE                |
+| :triangular_flag_on_post: WEEK 7: TRAFFIC CIRCLE                |
 | 🤝                                    | Red Light, Green Light, Stoplight BOOM (various neighborhood-based links; see your GitHub neighborhood team copy) |
 | 🧰                                    | Conditional Statements                                                                                            |
 | 10/9/2023                             | Monday                                                                                                            | FALL BREAK                                               |
-| 10/11/2023                            | Wednesday                                                                                                         | Conditional Statements                                   |
-| 10/13/2023                            | Friday                                                                                                            | Traffic Circle                                           |
-|                                       | Class Session                                                                                                     | Traffic Circle                                           |
+| 10/11/2023                            | Wednesday                                                                                                         | Traffic Circle                                    |
+| 10/13/2023                            | Friday                                                                                                            |                                           |
+|                                       | Class Session                                                                                                     | Control Structures                                           |
 |                                       | Lab                                                                                                               | Traffic Circle                                           |
 | WEEK 8: NEIGHBORHOOD CENSUS OPERATION |
 | 🤝                                    | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links; see your GitHub neighborhood team)                 |
