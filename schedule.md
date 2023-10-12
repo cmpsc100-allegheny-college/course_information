@@ -12,15 +12,14 @@ KEY:
 
 [Form to Report Violations](https://forms.gle/oHFFaeBhur4VpdY8A)
 
-| DAY                                   | DAY OF WEEK                                                                                                       | ACTIVITY                                                    |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| DAY                                   | DAY OF WEEK                  | ACTIVITY                                                |
+| ------------------------------------- | --------------------------- | -------------------------------------------------------- |
 | :heavy_check_mark: WEEK 1: MOVING IN |
-| 📖                |           | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information) 
-| 8/30/2023        | Wednesday   | Course Configuration: Discord and GitHub                 
-|
-| 9/1/2023                              | Friday                                                                                                            |                                                          |
-|                                       | Class Session                                                                                                     | Neighborhood Configurations                              |
-|                                       | Lab                                                                                                               | Neighborhood Configurations                              |
+| 📖                |           | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information) |
+| 8/30/2023        | Wednesday   | Course Configuration: Discord and GitHub                 |
+| 9/1/2023         | Friday         |                                                          |
+|                  | Class Session    | Neighborhood Configurations                              |
+|                  | Lab    | Neighborhood Configurations                              |
 | :heavy_check_mark: WEEK 2: MOVING IN                     |
 | 📖                                    | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information). [What is GitHub?](https://digital.gov/resources/an-introduction-github/)           |
 | 📓                                    | [Who's House? Your house.](https://classroom.github.com/a/g4MvyqpB)       |
