@@ -12,11 +12,12 @@ KEY:
 
 [Form to Report Violations](https://forms.gle/oHFFaeBhur4VpdY8A)
 
-| DAY                                   | DAY OF WEEK                                                                                                       | TOPIC                                                    |
+| DAY                                   | DAY OF WEEK                                                                                                       | ACTIVITY                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | :heavy_check_mark: WEEK 1: MOVING IN |
-| 📖                | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information)           |
-| 8/30/2023                             | Wednesday                                                                                                         | Course Configuration: Discord and GitHub                 |
+| 📖                |           | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information) 
+| 8/30/2023        | Wednesday   | Course Configuration: Discord and GitHub                 
+|
 | 9/1/2023                              | Friday                                                                                                            |                                                          |
 |                                       | Class Session                                                                                                     | Neighborhood Configurations                              |
 |                                       | Lab                                                                                                               | Neighborhood Configurations                              |
