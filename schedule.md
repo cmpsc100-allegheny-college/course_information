@@ -16,20 +16,20 @@ KEY:
 | ------------------------------------- | --------------------------- | -------------------------------------------------------- |
 | :heavy_check_mark: WEEK 1: MOVING IN |
 | 📖                |           | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information) |
-| 8/30/2023        | Wednesday   | Course Configuration: Discord and GitHub                 |
-| 9/1/2023         | Friday         |                                                          |
-|                  | Class Session    | Neighborhood Configurations                              |
-|                  | Lab    | Neighborhood Configurations                              |
+| 8/30/2023        | Wednesday  | Course Configuration: Discord and GitHub                  |
+| 9/1/2023         | Friday         |                                                       |
+|                  | Class Session    | Neighborhood Configurations                         |
+|                  | Lab    | Neighborhood Configurations                                   |
 | :heavy_check_mark: WEEK 2: MOVING IN                     |
-| 📖                                    | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information). [What is GitHub?](https://digital.gov/resources/an-introduction-github/)           |
-| 📓                                    | [Who's House? Your house.](https://classroom.github.com/a/g4MvyqpB)       |
-| 9/4/2023                              | Monday                                                                                                            | Course Configuration: Contract Approval, Course Platform |
-| 9/6/2023                              | Wednesday                                                                                                         | Platforms: term-world. House                             |
-| 9/8/2023                 | Friday         |                                                          |
-|                                       | Class Session                                                                                                     | House                                                    |
-|                                       | Lab                                                                                                               | House                                                    |
-| :heavy_check_mark: WEEK 3: GARAGE                        |
-|                                    | Class Activity: Thermometer                                                                                       |                                                          |
+| 📖               |          | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information). [What is GitHub?](https://digital.gov/resources/an-introduction-github/)  
+| 📓               |          | [Who's House? Your house.](https://classroom.github.com/a/g4MvyqpB)   
+| 9/4/2023        | Monday    | Course Configuration: Contract Approval, Course Platform    |
+| 9/6/2023        | Wednesday | Platforms: term-world. House                                |
+| 9/8/2023        | Friday    |                                                             |
+|                 | Class Session | House                                                   |
+|                 | Lab           | House                                                    |
+| :heavy_check_mark: WEEK 3: GARAGE |
+|                 | Class Activity: Thermometer                                                                                       |                                                          |
 | 📖     | Read [Python Basics](https://python.swaroopch.com/basics.html) and [Operators](https://python.swaroopch.com/op_exp.html)          |
 | 🧰                                    | [Workbench](https://classroom.github.com/a/rE4JzoFb)                                                              |
 | 📓                                    | [In the Garage](https://classroom.github.com/a/ZZj3Muwy)                                                          |
