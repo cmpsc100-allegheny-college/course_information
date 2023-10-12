@@ -55,14 +55,14 @@ KEY:
 | 9/27/2023                             | Wednesday                                                                                                         | Branching and Pull Requests                              |
 | 9/29/2023                             | Friday                                                                                                            | Merging                                                  |
 |                                       | Class Session                                                                                                     | Branching, Pull Requests, and Merging                    |
-|                                       | Lab                                                                                                               | [Participation in Alumni Panel](https://forms.gle/yyswW2zFPeRSBkaf9). Branching, Pull Requests, and Merging                    |
+|                                       | Lab: [Participation in Alumni Panel](https://forms.gle/yyswW2zFPeRSBkaf9).                                                                                                             | Careers                  |
 | :heavy_check_mark: WEEK 6: TRAFFIC CIRCLE                |
 |                                    | Class Activity: Guessing Game                                                                                     |                                                          |
 | 📖                                    | Read [Control Flow](https://python.swaroopch.com/control_flow.html)          |
 | 🤝                                    | [Red Light, Green Light, Stoplight BOOM](https://classroom.github.com/a/qSFynXe_) (neighborhood team repo) |
 | 🧰                                    | Guessing Game                                                                                                     |
-| 10/2/2023                             | Monday                                                                                                            | Control Structures                                       |
-| 10/4/2023                             | Wednesday                                                                                                         | [Class Survey](https://forms.gle/Ug5KVsqfsQZRaviY9). Traffic Circle                                           |
+| 10/2/2023                             | Monday                                                                                                            | Control Structures. [Class Survey](https://forms.gle/Ug5KVsqfsQZRaviY9).                                        |
+| 10/4/2023                             | Wednesday                                                                                                         | Traffic Circle                                           |
 | 10/6/2023                             | Friday                                                                                                            |                                            |
 |                                       | Class Session                                                                                                     | Traffic Circle                                           |
 |                                       | Lab                                                                                                               | Traffic Circle                                           |
@@ -72,7 +72,7 @@ KEY:
 | 10/9/2023                             | Monday                                                                                                            | FALL BREAK                                               |
 | 10/11/2023                            | Wednesday                                                                                                         | Traffic Circle                                    |
 | 10/13/2023                            | Friday                                                                                                            |                                           |
-|                                       | Class Session                                                                                                     | Control Structures                                           |
+|                                       | Class Session                                                                                                     | [Flesh Machines](https://classroom.github.com/a/ZYAXMOV6)                                           |
 |                                       | Lab                                                                                                               | Traffic Circle                                           |
 | WEEK 8: NEIGHBORHOOD CENSUS OPERATION |
 | 🤝                                    | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links; see your GitHub neighborhood team)                 |
