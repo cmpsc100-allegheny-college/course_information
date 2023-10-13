@@ -83,7 +83,6 @@ KEY:
 |                 | Lab             | Census            |
 | WEEK 9: NEIGHBORHOOD CENSUS OPERATION |
 | 🤝               |                | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links; see your GitHub neighborhood team)  
-| 🧰               | Registration System |
 | 10/23/2023       | Monday         | Census            |
 | 10/25/2023       | Wednesday      | Census            |
 | 10/27/2023       | Friday         |                   |
