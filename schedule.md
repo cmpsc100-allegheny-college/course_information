@@ -12,8 +12,8 @@ KEY:
 
 [Form to Report Violations](https://forms.gle/oHFFaeBhur4VpdY8A)
 
-| DAY                                   | DAY OF WEEK                  | ACTIVITY                                                |
-| ------------------------------------- | --------------------------- | -------------------------------------------------------- |
+| DAY                                   | DAY OF WEEK                  | ACTIVITY           |
+| ------------------------------------- | --------------------------- | ------------------- |
 | :heavy_check_mark: WEEK 1: MOVING IN |
 | 📖                |           | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information) |
 | 8/30/2023        | Wednesday  | Course Configuration: Discord and GitHub                  |
@@ -48,32 +48,31 @@ KEY:
 | 9/22/2023       | Friday          |                                                        |
 |                 | Class Session   | Yard                                                   |
 |                 | Lab             | Yard                                                   |
-| :heavy_check_mark: WEEK 5: BODEGA                        |
-| 📖                                    | Read [GitHub Branches and Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)          |
-| 🤝                                    | You Say Bodega, I Say Bodega (various neighborhood-based links; see your GitHub neighborhood team copy)           |
-| 9/25/2023                             | Monday                                                                                                            | Branching                                                |
-| 9/27/2023                             | Wednesday                                                                                                         | Branching and Pull Requests                              |
-| 9/29/2023                             | Friday                                                                                                            | Merging                                                  |
-|                                       | Class Session                                                                                                     | Branching, Pull Requests, and Merging                    |
-|                                       | Lab: [Participation in Alumni Panel](https://forms.gle/yyswW2zFPeRSBkaf9).                                                                                                             | Careers                  |
-| :heavy_check_mark: WEEK 6: TRAFFIC CIRCLE                |
-|                                    | Class Activity: Guessing Game                                                                                     |                                                          |
-| 📖                                    | Read [Control Flow](https://python.swaroopch.com/control_flow.html)          |
-| 🤝                                    | [Red Light, Green Light, Stoplight BOOM](https://classroom.github.com/a/qSFynXe_) (neighborhood team repo) |
-| 🧰                                    | Guessing Game                                                                                                     |
-| 10/2/2023                             | Monday                                                                                                            | Control Structures. [Class Survey](https://forms.gle/Ug5KVsqfsQZRaviY9).                                        |
-| 10/4/2023                             | Wednesday                                                                                                         | Traffic Circle                                           |
-| 10/6/2023                             | Friday                                                                                                            |                                            |
-|                                       | Class Session                                                                                                     | Traffic Circle                                           |
-|                                       | Lab                                                                                                               | Traffic Circle                                           |
-| :triangular_flag_on_post: WEEK 7: TRAFFIC CIRCLE                |
-| 🤝                                    | Red Light, Green Light, Stoplight BOOM (various neighborhood-based links; see your GitHub neighborhood team copy) |
-| 🧰                                    | Conditional Statements                                                                                            |
-| 10/9/2023                             | Monday                                                                                                            | FALL BREAK                                               |
-| 10/11/2023                            | Wednesday                                                                                                         | Traffic Circle                                    |
-| 10/13/2023                            | Friday                                                                                                            |                                           |
-|                                       | Class Session                                                                                                     | [Flesh Machines](https://classroom.github.com/a/ZYAXMOV6)                                           |
-|                                       | Lab                                                                                                               | Traffic Circle                                           |
+| :heavy_check_mark: WEEK 5: BODEGA |
+| 📖              |                 | Read [GitHub Branches and Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)  
+| 🤝              |                 | You Say Bodega, I Say Bodega (various neighborhood-based links; see your GitHub neighborhood team copy) 
+| 9/25/2023       | Monday          | Branching                                                |
+| 9/27/2023       | Wednesday       | Branching and Pull Requests                              |
+| 9/29/2023       | Friday          |                                                          |
+|                 | Class Session   | Branching, Pull Requests, and Merging                    |
+|                 | Careers         | Lab: [Participation in Alumni Panel](https://forms.gle/yyswW2zFPeRSBkaf9).   |
+| :heavy_check_mark: WEEK 6: TRAFFIC CIRCLE  |                  |                                                  |
+| 📖              |                 | Read [Control Flow](https://python.swaroopch.com/control_flow.html)        
+| 🤝              |                 | [Red Light, Green Light, Stoplight BOOM](https://classroom.github.com/a/qSFynXe_) (neighborhood team repo)
+| 🧰              | Guessing Game   |
+| 10/2/2023       | Monday          | Control Structures. [Class Survey](https://forms.gle/Ug5KVsqfsQZRaviY9).     |
+| 10/4/2023       | Wednesday       | Traffic Circle                                                               |
+| 10/6/2023       | Friday          |                                                                              |
+|                 | Class Session   | Traffic Circle                                                               |
+|                 | Lab             | Traffic Circle                                                               |
+| :triangular_flag_on_post: WEEK 7: TRAFFIC CIRCLE           |
+| 🤝              |                 | Red Light, Green Light, Stoplight BOOM (various neighborhood-based links; see your GitHub neighborhood team copy)
+| 🧰              |                 | Conditional Statements                                                                                    
+| 10/9/2023       | Monday          | FALL BREAK             |
+| 10/6/2023       | Friday          |                        |
+| 10/11/2023      | Wednesday       | Traffic Circle         |                                           
+|                 | Class Session   | [Flesh Machines](https://classroom.github.com/a/ZYAXMOV6)  |
+|                 | Lab             | Traffic Circle                                             |
 | WEEK 8: NEIGHBORHOOD CENSUS OPERATION |
 | 🤝                                    | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links; see your GitHub neighborhood team)                 |
 | 🧰                                    | Registration System                                                                                               |
