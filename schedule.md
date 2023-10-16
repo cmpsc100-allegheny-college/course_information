@@ -76,8 +76,8 @@ KEY:
 | 📖              |                 | Read [Lists](https://python.swaroopch.com/data_structures.html) 
 | 🤝              |                 | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links; see your GitHub neighborhood team)      
 | 🧰              |                 | Registration System
-| 10/16/2023      | Monday          | Lists             |
-| 10/18/2023      | Wednesday       | Census            |
+| 10/16/2023      | Monday          | Reflections. Catch up.  |
+| 10/18/2023      | Wednesday       | Lists            |
 | 10/20/2023      | Friday          |                   |
 |                 | Class Session   | Census            |
 |                 | Lab             | Census            |
