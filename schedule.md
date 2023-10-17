@@ -20,7 +20,7 @@ KEY:
 | 9/1/2023         | Friday         |                                                       |
 |                  | Class Session    | Neighborhood Configurations                         |
 |                  | Lab    | Neighborhood Configurations                                   |
-| :heavy_check_mark: WEEK 2: MOVING IN                     |
+| :heavy_check_mark: WEEK 2: HOUSE                   |
 | 📖               |          | [Review Course Syllabus and Contract](https://github.com/cmpsc100-allegheny-college/course_information). [What is GitHub?](https://digital.gov/resources/an-introduction-github/)  
 | 📓               |          | [Who's House? Your house.](https://classroom.github.com/a/g4MvyqpB)   
 | 9/4/2023        | Monday    | Course Configuration: Contract Approval, Course Platform    |
