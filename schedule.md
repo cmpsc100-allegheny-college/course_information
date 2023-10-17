@@ -72,7 +72,7 @@ KEY:
 | 10/6/2023       | Friday          |                        |                                           
 |                 | Class Session   | [Flesh Machines](https://classroom.github.com/a/ZYAXMOV6)  |
 |                 | Lab             | Traffic Circle                                             |
-| :triangular_flag_on_post: WEEK 8: NEIGHBORHOOD CENSUS OPERATION |
+| :triangular_flag_on_post: WEEK 8: DATA MART |
 | 📖              |                 | Read [Lists](https://python.swaroopch.com/data_structures.html) 
 | 🤝              |                 | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links)      
 | 🧰              |                 | Wages Analytics
@@ -81,7 +81,7 @@ KEY:
 | 10/20/2023      | Friday          |                   |
 |                 | Class Session   | Census. Workbench: Lists and `for` loops   |
 |                 | Lab             | Datamart: Census        |
-| WEEK 9: NEIGHBORHOOD CENSUS OPERATION |
+| WEEK 9: DATA MART |
 | 🤝               |                | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links)    
 | 🧰              |                 | Registration System
 | 10/23/2023       | Monday         | Census. Workbench: Lists and functions  |
