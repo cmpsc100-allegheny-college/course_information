@@ -74,7 +74,7 @@ KEY:
 |                 | Lab             | Traffic Circle                                             |
 | :triangular_flag_on_post: WEEK 8: DATA MART |
 | 📖              |                 | Read [Lists](https://python.swaroopch.com/data_structures.html) 
-| 🤝              |                 | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links)      
+| 🤝              |                 | [PACKETS, PACKETS EVERYWHERE](https://classroom.github.com/a/YcAOgMw_)
 | 🧰              |                 | Wages Analytics
 | 10/16/2023      | Monday          | Reflections. Catch up  |
 | 10/18/2023      | Wednesday       | Datamart: Census        |
@@ -82,7 +82,7 @@ KEY:
 |                 | Class Session   | Census. Workbench: Lists and `for` loops   |
 |                 | Lab             | Datamart: Census        |
 | WEEK 9: DATA MART |
-| 🤝               |                | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links)    
+| 🤝               |                | [PACKETS, PACKETS EVERYWHERE](https://classroom.github.com/a/YcAOgMw_) 
 | 🧰              |                 | Registration System
 | 10/23/2023       | Monday         | Census. Workbench: Lists and functions  |
 | 10/25/2023       | Wednesday      | Census            |
