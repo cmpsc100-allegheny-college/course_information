@@ -33,17 +33,17 @@ KEY:
 | 📖              |                 | Read [Python Basics](https://python.swaroopch.com/basics.html) and [Operators](https://python.swaroopch.com/op_exp.html)   
 | 🧰              |                 | [Workbench](https://classroom.github.com/a/rE4JzoFb)      
 | 📓              |                 | [In the Garage](https://classroom.github.com/a/ZZj3Muwy)       
-| 9/11/2023       | Monday          | Python Basics: print, user input, variables, arithmetic operators     |
+| 9/11/2023       | Monday          | Workbench: Python Basics: print, user input, variables, arithmetic operators     |
 | 9/13/2023       | Wednesday       |    Garage                                              |
 | 9/15/2023       | Friday          |                                                        |
 |                 | Class Session   | Garage                                                 |
 |                 | Lab             | Garage                                                 |
 | :heavy_check_mark: WEEK 4: YARD   |
-|                 |                 |  Class Activity: Exponent Calculator                   |
+|                 |                 | Class Activity: Exponent Calculator                   |
 | 📖              |                 | Read [Functions](https://python.swaroopch.com/functions.html) and [Modules](https://python.swaroopch.com/modules.html)  
 | 🧰              |                 | Power Tools                                            |
 | 📓              |                 | [Yard Work](https://classroom.github.com/a/aVo3IbzW)        
-| 9/18/2023       | Monday          | Python Functions                                       |
+| 9/18/2023       | Monday          | Workbench: Python Functions                                       |
 | 9/20/2023       | Wednesday       | Yard                                                   |
 | 9/22/2023       | Friday          |                                                        |
 |                 | Class Session   | Yard                                                   |
@@ -60,30 +60,31 @@ KEY:
 | 📖              |                 | Read [Control Flow](https://python.swaroopch.com/control_flow.html)        
 | 🤝              |                 | [Red Light, Green Light, Stoplight BOOM](https://classroom.github.com/a/qSFynXe_) (neighborhood team repo)
 | 🧰              |                 | Guessing Game
-| 10/2/2023       | Monday          | Control Structures. [Class Survey](https://forms.gle/Ug5KVsqfsQZRaviY9).     |
+| 10/2/2023       | Monday          | Workbench: Control Structures. [Class Survey](https://forms.gle/Ug5KVsqfsQZRaviY9).     |
 | 10/4/2023       | Wednesday       | Traffic Circle                                                               |
 | 10/6/2023       | Friday          |                                                                              |
 |                 | Class Session   | Traffic Circle                                                               |
 |                 | Lab             | Traffic Circle                                                               |
-| :triangular_flag_on_post: WEEK 7: TRAFFIC CIRCLE           |
+| :heavy_check_mark: WEEK 7: TRAFFIC CIRCLE           |
 | 🤝              |                 | Red Light, Green Light, Stoplight BOOM (various neighborhood-based links; see your GitHub neighborhood team copy)
 | 10/9/2023       | Monday          | FALL BREAK             |
 | 10/11/2023      | Wednesday       | Traffic Circle         |
 | 10/6/2023       | Friday          |                        |                                           
 |                 | Class Session   | [Flesh Machines](https://classroom.github.com/a/ZYAXMOV6)  |
 |                 | Lab             | Traffic Circle                                             |
-| WEEK 8: NEIGHBORHOOD CENSUS OPERATION |
+| :triangular_flag_on_post: WEEK 8: NEIGHBORHOOD CENSUS OPERATION |
 | 📖              |                 | Read [Lists](https://python.swaroopch.com/data_structures.html) 
-| 🤝              |                 | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links; see your GitHub neighborhood team)      
-| 🧰              |                 | Registration System
-| 10/16/2023      | Monday          | Reflections. Catch up.  |
-| 10/18/2023      | Wednesday       | Lists            |
+| 🤝              |                 | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links)      
+| 🧰              |                 | Wages Analytics
+| 10/16/2023      | Monday          | Reflections. Catch up  |
+| 10/18/2023      | Wednesday       | Datamart: Census        |
 | 10/20/2023      | Friday          |                   |
-|                 | Class Session   | Census            |
-|                 | Lab             | Census            |
+|                 | Class Session   | Census. Workbench: Lists and `for` loops   |
+|                 | Lab             | Datamart: Census        |
 | WEEK 9: NEIGHBORHOOD CENSUS OPERATION |
-| 🤝               |                | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links; see your GitHub neighborhood team)  
-| 10/23/2023       | Monday         | Census            |
+| 🤝               |                | PACKETS, PACKETS EVERYWHERE (various neighborhood-based links)    
+| 🧰              |                 | Registration System
+| 10/23/2023       | Monday         | Census. Workbench: Lists and functions  |
 | 10/25/2023       | Wednesday      | Census            |
 | 10/27/2023       | Friday         |                   |
 |                  | Class Session  | Census            |
