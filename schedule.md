@@ -77,7 +77,7 @@ KEY:
 | 🤝              |                 | [PACKETS, PACKETS EVERYWHERE](https://classroom.github.com/a/YcAOgMw_)
 | 🧰              |                 | Wages Analytics
 | 10/16/2023      | Monday          | Reflections. Catch up  |
-| 10/18/2023      | Wednesday       | Datamart: Census        |
+| 10/18/2023      | Wednesday       | Workbench: Lists Intro. Datamart: Census        |
 | 10/20/2023      | Friday          |                   |
 |                 | Class Session   | Census. Workbench: Lists and `for` loops   |
 |                 | Lab             | Datamart: Census        |
