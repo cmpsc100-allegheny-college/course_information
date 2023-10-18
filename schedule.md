@@ -84,11 +84,11 @@ KEY:
 | WEEK 9: DATA MART |
 | 🤝               |                | [PACKETS, PACKETS EVERYWHERE](https://classroom.github.com/a/YcAOgMw_) 
 | 🧰              |                 | Registration System
-| 10/23/2023       | Monday         | Census. Workbench: Lists and functions  |
-| 10/25/2023       | Wednesday      | Census            |
+| 10/23/2023       | Monday         | Datamart. Workbench: Lists and functions  |
+| 10/25/2023       | Wednesday      | Datamart            |
 | 10/27/2023       | Friday         |                   |
-|                  | Class Session  | Census            |
-|                  | Lab            | Census            |
+|                  | Class Session  | Datamart            |
+|                  | Lab            | Datamart            |
 | WEEK 10: HALL OF RECORDS          |
 | 📓               |                | Hall of Records
 | 🧰               |                | Voting System      
