@@ -72,7 +72,7 @@ KEY:
 | 10/6/2023       | Friday          |                        |                                           
 |                 | Class Session   | [Flesh Machines](https://classroom.github.com/a/ZYAXMOV6)  |
 |                 | Lab             | Traffic Circle                                             |
-| :triangular_flag_on_post: WEEK 8: DATA MART |
+| :heavy_check_mark: WEEK 8: DATA MART |
 | 📖              |                 | Read [Lists](https://python.swaroopch.com/data_structures.html) 
 | 🤝              |                 | [PACKETS, PACKETS EVERYWHERE](https://classroom.github.com/a/YcAOgMw_)
 | 🧰              |                 | Wages Analytics
@@ -81,9 +81,8 @@ KEY:
 | 10/20/2023      | Friday          |                   |
 |                 | Class Session   | Census. Workbench: Lists and `for` loops   |
 |                 | Lab             | Datamart: Census        |
-| WEEK 9: DATA MART |
-| 🤝               |                | [PACKETS, PACKETS EVERYWHERE](https://classroom.github.com/a/YcAOgMw_) 
-| 🧰              |                 | Registration System
+| :triangular_flag_on_post: WEEK 9: DATA MART |
+| 🤝               |                | [PACKETS, PACKETS EVERYWHERE](https://classroom.github.com/a/YcAOgMw_)
 | 10/23/2023       | Monday         | Datamart. Workbench: Lists and functions  |
 | 10/25/2023       | Wednesday      | Datamart            |
 | 10/27/2023       | Friday         |                   |
