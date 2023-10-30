@@ -81,18 +81,20 @@ KEY:
 | 10/20/2023      | Friday          |                   |
 |                 | Class Session   | Census. Workbench: Lists and `for` loops   |
 |                 | Lab             | Datamart: Census        |
-| :triangular_flag_on_post: WEEK 9: DATA MART |
+| :heavy_check_mark: WEEK 9: DATA MART |
 | 🤝               |                | [PACKETS, PACKETS EVERYWHERE](https://classroom.github.com/a/YcAOgMw_)
+| 🧰              |                 | Registration System 
 | 10/23/2023       | Monday         | Datamart. Workbench: Lists and functions  |
 | 10/25/2023       | Wednesday      | Datamart            |
-| 10/27/2023       | Friday         |                   |
-|                  | Class Session  | Datamart            |
+| 10/27/2023       | Friday         |                     |
+|                  | Class Session  | Datamart. Workbench: Lists and functions  |
 |                  | Lab            | Datamart            |
-| WEEK 10: HALL OF RECORDS          |
+| :triangular_flag_on_post: WEEK 10: HALL OF RECORDS      |
+| 📖              |                 | Read [Dictionary](https://python.swaroopch.com/data_structures.html) 
 | 📓               |                | Hall of Records
 | 🧰               |                | Voting System      
-| 10/30/2023       | Monday         | Dictionaries      |
-| 11/1/2023        | Wednesday      | Hall of Records   |
+| 10/30/2023       | Monday         | Datamart Presentations |
+| 11/1/2023        | Wednesday      | Dictionaries. Workbench: dictionaries  |
 | 11/3/2023        | Friday         |                   |
 |                  | Class Session  | Hall of Records   |
 |                  | Lab            | Hall of Records   |
@@ -105,7 +107,7 @@ KEY:
 |                 | Class Session   | Woodshop             |
 |                 | Lab             | Woodshop             |
 | WEEK 12: THE NEW POWER GENERATION |
-| 🤝               |                | Powerplant (various neighborhood-based links; see your GitHub neighborhood team)   
+| 📓               |                | Powerplant    
 | 11/13/2023       | Monday         | Powerplant    |
 | 11/15/2023       | Wednesday      | Powerplant    |
 | 11/17/2023       | Friday         | Powerplant    |
