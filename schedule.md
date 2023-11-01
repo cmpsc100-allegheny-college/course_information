@@ -91,7 +91,7 @@ KEY:
 |                  | Lab            | Datamart            |
 | :triangular_flag_on_post: WEEK 10: HALL OF RECORDS      |
 | 📖              |                 | Read [Dictionary](https://python.swaroopch.com/data_structures.html). Refer to [Python Documentation](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
-| 📓               |                | Hall of Records
+| 📓               |                | [Hall of Records](https://classroom.github.com/a/QvDgaO5O)
 | 🧰               |                | Voting System      
 | 10/30/2023       | Monday         | Datamart Presentations |
 | 11/1/2023        | Wednesday      | Dictionaries. Workbench: dictionaries  |
