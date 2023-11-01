@@ -90,7 +90,7 @@ KEY:
 |                  | Class Session  | Datamart. Workbench: Lists and functions  |
 |                  | Lab            | Datamart            |
 | :triangular_flag_on_post: WEEK 10: HALL OF RECORDS      |
-| 📖              |                 | Read [Dictionary](https://python.swaroopch.com/data_structures.html) 
+| 📖              |                 | Read [Dictionary](https://python.swaroopch.com/data_structures.html). Refer to [Python Documentation](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 | 📓               |                | Hall of Records
 | 🧰               |                | Voting System      
 | 10/30/2023       | Monday         | Datamart Presentations |
@@ -101,21 +101,21 @@ KEY:
 | WEEK 11: WOODSHOP   |
 | 📓              |                 | Woodshop
 | 🧰              |                 | Water Tower
-| 11/6/2023       | Monday          | Classes and methods  |
-| 11/8/2023       | Wednesday       | Woodshop             |
+| 11/6/2023       | Monday          | Finish Hall of Records  |
+| 11/8/2023       | Wednesday       | Classes and methods. Woodshop.   |
 | 11/10/2023      | Friday          |                      |
 |                 | Class Session   | Woodshop             |
 |                 | Lab             | Woodshop             |
 | WEEK 12: THE NEW POWER GENERATION |
 | 📓               |                | Powerplant    
-| 11/13/2023       | Monday         | Powerplant    |
+| 11/13/2023       | Monday         | Finish Woodshop    |
 | 11/15/2023       | Wednesday      | Powerplant    |
-| 11/17/2023       | Friday         | Powerplant    |
+| 11/17/2023       | Friday         |               |
 |                  | Class Session  | Powerplant    |
 |                  | Lab            | Powerplant    |
 | WEEK 13: COURSE PROJECT  |
 | 🤝               |         | Course project (partnership-based; create your GitHub teams)     
-| 11/20/2023       | Monday    | Project overview     |
+| 11/20/2023       | Monday    | Finish Powerplant. Project overview. |
 | 11/22/2023       | Wednesday | THANKSGIVING BREAK   |
 | 11/24/2023       | Friday    | THANKSGIVING BREAK   |
 | WEEK 14: COURSE PROJECT     |
