@@ -121,17 +121,17 @@ KEY:
 | WEEK 14: COURSE PROJECT     |
 | 🤝              |           | Course project (partnership-based; create your GitHub teams)   
 | 11/27/2023      | Monday    | Project Proposal        |
-| 11/29/2023      | Wednesday | Project Proposal        |
+| 11/29/2023      | Wednesday | Project        |
 | 12/1/2023       | Friday    |                         |
-|            | Class Session  | Project Progress Report |
+|            | Class Session  | Project  |
 |                 | Lab       | Project Progress Report |
 | WEEK 15: COURSE PROJECT     |
 | 🤝              |           | Course project (partnership-based; create your GitHub teams)          
-| 12/4/2023       | Monday    | Project Demonstration    |
-| 12/6/2023       | Wednesday | Project Demonstration    |
+| 12/4/2023       | Monday    | Project     |
+| 12/6/2023       | Wednesday | Project     |
 | 12/8/2023       | Friday         |                        |
-|                 | Class Session  | Project Demonstration  |
+|                 | Class Session  | Project   |
 |                 | Lab            | Project Demonstration  |
 | WEEK 16: COURSE PROJECT     |
 | 🤝              |           | Course project (partnership-based; create your GitHub teams)   
-| 12/11/2023      | Monday       | Project   |
+| 12/11/2023      | Monday       | Project  Demonstration |
