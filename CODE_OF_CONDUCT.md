@@ -221,8 +221,6 @@ Both of the above assignment types operate on the assumption that members, inste
 
 #### Neighborhood assignments
 
-For all neighborhood assignments, members will fill out a post-assignment assessment to determine individual level of effort (LoE).
-
 * Contribute any and all ideas, even if you aren't sure it'll work or is correct
 * Be respectful of other people's ideas and their misunderstandings
 * Help where you can and be honest when you don't know what's going; it's very likely a peer can help you
