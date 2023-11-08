@@ -89,20 +89,21 @@ KEY:
 | 10/27/2023       | Friday         |                     |
 |                  | Class Session  | Datamart. Workbench: Lists and functions  |
 |                  | Lab            | Datamart            |
-| :triangular_flag_on_post: WEEK 10: HALL OF RECORDS      |
+| :heavy_check_mark: WEEK 10: HALL OF RECORDS      |
 | 📖              |                 | Read [Dictionary](https://python.swaroopch.com/data_structures.html). Refer to [Python Documentation](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 | 📓               |                | [Hall of Records](https://classroom.github.com/a/QvDgaO5O)
-| 🧰               |                | Voting System      
+| 🧰               |                | Termworld Analytics      
 | 10/30/2023       | Monday         | Datamart Presentations |
 | 11/1/2023        | Wednesday      | Dictionaries. Workbench: dictionaries  |
 | 11/3/2023        | Friday         |                   |
 |                  | Class Session  | Hall of Records   |
 |                  | Lab            | Hall of Records   |
-| WEEK 11: WOODSHOP   |
-| 📓              |                 | Woodshop
-| 🧰              |                 | Water Tower
+| :triangular_flag_on_post: WEEK 11: WOODSHOP   |
+| 📖              |                 | Read [Object Oriented Programming](https://python.swaroopch.com/oop.html)
+| 📓              |                 | [Woodshop](https://classroom.github.com/a/QchTxL1_)
+| 🧰              |                 | Restaurant
 | 11/6/2023       | Monday          | Finish Hall of Records  |
-| 11/8/2023       | Wednesday       | Classes and methods. Woodshop.   |
+| 11/8/2023       | Wednesday       | Workbench: Classes and methods. Woodshop.   |
 | 11/10/2023      | Friday          |                      |
 |                 | Class Session   | Woodshop             |
 |                 | Lab             | Woodshop             |
