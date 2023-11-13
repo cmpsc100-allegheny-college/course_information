@@ -98,7 +98,7 @@ KEY:
 | 11/3/2023        | Friday         |                   |
 |                  | Class Session  | Hall of Records   |
 |                  | Lab            | Hall of Records   |
-| :triangular_flag_on_post: WEEK 11: WOODSHOP   |
+| :heavy_check_mark: WEEK 11: WOODSHOP   |
 | 📖              |                 | Read [Object Oriented Programming](https://python.swaroopch.com/oop.html)
 | 📓              |                 | [Woodshop](https://classroom.github.com/a/QchTxL1_)
 | 🧰              |                 | Restaurant
@@ -107,7 +107,7 @@ KEY:
 | 11/10/2023      | Friday          |                      |
 |                 | Class Session   | Woodshop             |
 |                 | Lab             | Woodshop             |
-| WEEK 12: THE NEW POWER GENERATION |
+| :triangular_flag_on_post: WEEK 12: THE NEW POWER GENERATION |
 | 📓               |                | Powerplant    
 | 11/13/2023       | Monday         | Finish Woodshop    |
 | 11/15/2023       | Wednesday      | Powerplant    |
