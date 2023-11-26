@@ -114,8 +114,7 @@ KEY:
 | 11/17/2023       | Friday         |               |
 |                  | Class Session  | Powerplant    |
 |                  | Lab            | Powerplant    |
-| WEEK 13: COURSE PROJECT  |
-| 🤝               |         | Course project (partnership-based; create your GitHub teams)     
+| WEEK 13: POWERPLANT |  
 | 11/20/2023       | Monday    | Finish Powerplant.  |
 | 11/22/2023       | Wednesday | THANKSGIVING BREAK   |
 | 11/24/2023       | Friday    | THANKSGIVING BREAK   |
@@ -131,8 +130,8 @@ KEY:
 | 12/4/2023       | Monday    | Project Progress Report    |
 | 12/6/2023       | Wednesday | Project     |
 | 12/8/2023       | Friday         |                        |
-|                 | Class Session  | Project   |
+|                 | Class Session  | Project Demonstration  |
 |                 | Lab            | Project Demonstration  |
 | WEEK 16: COURSE PROJECT     |
 | 🤝              |           | Course project (partnership-based; create your GitHub teams)   
-| 12/11/2023      | Monday       | Project  Demonstration |
+| 12/11/2023      | Monday       | Project   |
