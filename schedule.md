@@ -107,18 +107,18 @@ KEY:
 | 11/10/2023      | Friday          |                      |
 |                 | Class Session   | Woodshop             |
 |                 | Lab             | Woodshop             |
-| :triangular_flag_on_post: WEEK 12: THE NEW POWER GENERATION |
+| :heavy_check_mark: WEEK 12: THE NEW POWER GENERATION |
 | 📓               |                | [Powerplant](https://classroom.github.com/a/SyL_Oenm)    
 | 11/13/2023       | Monday         | Finish Woodshop    |
 | 11/15/2023       | Wednesday      | Powerplant    |
 | 11/17/2023       | Friday         |               |
 |                  | Class Session  | Powerplant    |
 |                  | Lab            | Powerplant    |
-| WEEK 13: POWERPLANT |  
+| :heavy_check_mark: WEEK 13: POWERPLANT |  
 | 11/20/2023       | Monday    | Finish Powerplant.  |
 | 11/22/2023       | Wednesday | THANKSGIVING BREAK   |
 | 11/24/2023       | Friday    | THANKSGIVING BREAK   |
-| WEEK 14: COURSE PROJECT     |
+| :triangular_flag_on_post:  WEEK 14: COURSE PROJECT     |
 | 🤝              |           | Course project (partnership-based; create your GitHub teams)   
 | 11/27/2023      | Monday    | Project Overview        |
 | 11/29/2023      | Wednesday | Project Proposal        |
