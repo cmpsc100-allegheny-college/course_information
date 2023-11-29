@@ -119,7 +119,7 @@ KEY:
 | 11/22/2023       | Wednesday | THANKSGIVING BREAK   |
 | 11/24/2023       | Friday    | THANKSGIVING BREAK   |
 | :triangular_flag_on_post:  WEEK 14: COURSE PROJECT     |
-| 🤝              |           | [Course project](https://classroom.github.com/a/JW_51Ic1)
+| 🤝              |           | [Course project](https://classroom.github.com/a/JW_51Ic1). [Source Code repo](https://classroom.github.com/a/KN0OYUZI)
 | 11/27/2023      | Monday    | Project Overview        |
 | 11/29/2023      | Wednesday | Project Proposal        |
 | 12/1/2023       | Friday    |                         |
