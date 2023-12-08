@@ -130,7 +130,7 @@ KEY:
 | 12/4/2023       | Monday    | Project Progress Report    |
 | 12/6/2023       | Wednesday | Project     |
 | 12/8/2023       | Friday         |                        |
-|                 | Class Session  | Assessment |
+|                 | Class Session  | [Assessment Assignment](https://classroom.github.com/a/2HiaFfpn) |
 |                 | Lab            | Project Demonstration  |
 | WEEK 16: COURSE PROJECT     |
 | 🤝              |           | Course project (partnership-based; create your GitHub teams)   
